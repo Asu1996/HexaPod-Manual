@@ -1,5 +1,5 @@
   // Infrared Remote Control library: http://tech.cyborg5.com/irlib/
-// Hexapod code based on example code from DAGU
+// Hexapod code based on example code from DAGU_
 // Adafruit_PWMServoDriver library: https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
